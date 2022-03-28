@@ -1,4 +1,4 @@
-package com.crm.filpkart;
+package leadsModule;
 
 import org.testng.annotations.Test;
 
